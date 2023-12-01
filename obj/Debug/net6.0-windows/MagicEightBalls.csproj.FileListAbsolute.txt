@@ -1,0 +1,36 @@
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.exe
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.deps.json
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.runtimeconfig.json
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.dll
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.pdb
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.csproj.AssemblyReference.cache
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.magicEightBall.resources
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.Properties.Resources.resources
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.csproj.GenerateResource.cache
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.AssemblyInfoInputs.cache
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.AssemblyInfo.cs
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.dll
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\refint\MagicEightBalls.dll
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.pdb
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.genruntimeconfig.cache
+C:\Users\nikos\Desktop\c#\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\ref\MagicEightBalls.dll
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.exe
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.deps.json
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.runtimeconfig.json
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.dll
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\bin\Debug\net6.0-windows\MagicEightBalls.pdb
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.csproj.AssemblyReference.cache
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.magicEightBall.resources
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.Properties.Resources.resources
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.csproj.GenerateResource.cache
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.AssemblyInfoInputs.cache
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.AssemblyInfo.cs
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.dll
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\refint\MagicEightBalls.dll
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.pdb
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\MagicEightBalls.genruntimeconfig.cache
+C:\Users\nikos\Desktop\c#\c# projects\MagicEightBalls\MagicEightBalls\obj\Debug\net6.0-windows\ref\MagicEightBalls.dll
